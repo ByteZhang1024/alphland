@@ -1,0 +1,40 @@
+{
+  "name": "ALPHAGA",
+  "description": "Alphaga is a decentralized NFT marketplace on #Alephium blockchain $ALPH 🚀",
+  "short_description": "Decentralized NFT Marketplace",
+  "tags": ["DeFi", "NFTs", "ComingSoon"],
+  "councils_choice": true,
+  "contracts": [],
+  "audits": [{}],
+  "verified": false,
+  "dotw": false,
+  "links": {
+    "website": "https://alphaga.app/",
+    "discord": "https://discord.gg/ctkjBKrbvp",
+    "twitter": "https://twitter.com/AlphagaMarket",
+    "telegram": "https://t.me/ALPHAGAAnnoncement"
+  },
+  "twitterName": "AlphagaMarket",
+  "teamInfo": {
+    "contactEmail": "",
+    "founded": "2023-12-20T00:00:00.000Z",
+    "anonymous": true
+  },
+  "tokens": [
+    {
+      "address": "26Mirs33zojnVMRkqVDJtMZvVZcbAFVyxGojGw7UtWp2K",
+      "symbol": "ALPHAGA"
+    },
+    {
+      "address": "23cXw23ZjRqKc7i185ZoH8vh9KT4XTumVRWpVLUecgLMd",
+      "symbol": "ALPHALPHAGA"
+    }
+  ],
+  "media": {
+    "logoUrl": "/dapps/alphaga/logo.png",
+    "bannerUrl": "/dapps/alphaga/banner.png",
+    "previewUrl": "/dapps/alphaga/preview.png",
+    "videoUrl": "",
+    "gallery": [{}]
+  }
+}
